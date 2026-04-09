@@ -1,4 +1,5 @@
 # Half Adder (VHDL)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1d785a6-7126-446c-bbba-60c4f0523cfc" />
 
 This project implements a **Half Adder** using VHDL. It is one of the fundamental building blocks in digital design.
 
